@@ -29,8 +29,8 @@
 #define IMU IMU_LSM6DSO
 #define SECOND_IMU IMU
 #define BOARD BOARD_CUSTOM
-#define IMU_ROTATION DEG_90
-#define SECOND_IMU_ROTATION DEG_0
+#define IMU_ROTATION DEG_180
+#define SECOND_IMU_ROTATION DEG_180
 
 #define PRIMARY_IMU_OPTIONAL false
 #define SECONDARY_IMU_OPTIONAL true
@@ -177,12 +177,12 @@ PIN_IMU_SDA, PRIMARY_IMU_OPTIONAL, BMI160_QMC_REMAP) \
 //  #define LED_PIN 2
 //  #define LED_INVERTED false
 #elif BOARD == BOARD_CUSTOM
-#define PIN_IMU_SDA 4
-#define PIN_IMU_SCL 3
-#define PIN_IMU_SDA_2 6
-#define PIN_IMU_SCL_2 5
-#define PIN_IMU_SDA_3 8
-#define PIN_IMU_SCL_3 7
+#define PIN_IMU_SDA 8
+#define PIN_IMU_SCL 9
+#define PIN_IMU_SDA_2 3
+#define PIN_IMU_SCL_2 2
+#define PIN_IMU_SDA_3 5
+#define PIN_IMU_SCL_3 4
 #define PIN_IMU_INT 255
 #define PIN_IMU_INT_2 254
 #define PIN_BATTERY_LEVEL 0
