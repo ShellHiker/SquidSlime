@@ -37,7 +37,10 @@ SlimeVRの6センサー運用版になります．
   > * もしくは
   > * [センサー接続用ケーブル(太いもの)](https://akizukidenshi.com/catalog/g/g111611/)
 
-  * booth　（いずれかのセンサー）
+  * 楽天
+  > * [保護回路付き18650電池](https://item.rakuten.co.jp/3rwebshop/3r-ev18650/)
+
+  * booth　（いずれかのセンサーを選択）
   > * [LSM6DSV](https://booth.pm/ja/items/5606882)
   > * [LSM6DSO](https://booth.pm/ja/items/6048000)
   > * [LSM6DSR](https://booth.pm/ja/items/6098975)
