@@ -25,6 +25,7 @@ SlimeVRの6センサー運用版になります．
   > * [TP4056充電モジュール](https://amzn.asia/d/jdhtNvE)
   > * [JST PHコネクタ](https://www.amazon.co.jp/dp/B08JYNRTS1?ref=ppx_yo2ov_dt_b_fed_asin_title)
   > * [ケース用ねじm2l8-4本 m2l6-20本](https://amzn.asia/d/12LWxDU)
+  > * [滑り止め付き身体固定ベルト](https://amzn.asia/d/c1qFxLP)
 
   * 秋月電子
   > * [18650電池ボックス](https://akizukidenshi.com/catalog/g/g129374/)
@@ -52,6 +53,11 @@ SlimeVRの6センサー運用版になります．
   > /PCB/GeneralGerber/のZipファイルを解凍せずにJLCPCBでアップロードしてください
 * EasyEDA 経由で発注する方法
   > あらかじめJLCPCBに登録，ログインしておいてから/PCB/EasyEDAのフォルダをEasyEDAで読み込んでFabricationからOne-click Order PCB/SMTを選択，＞No continue order＞Yesで発注してください．
+
+## ケースについて
+* 今回はSTLファイルを同梱していますが，固定等がしっかりできるのであれば自作したり，100均等で売られているものを流用しても構いません．
+ベルトを通す幅によってbottomを分けています．
+また，fusionのファイルも同梱しているので加工等はお好きにどうぞ．
 
 ## 工具・消耗品
 > * [PHコネクタ圧着工具](https://amzn.asia/d/fIVv21o)
