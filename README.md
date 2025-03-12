@@ -44,7 +44,7 @@ SlimeVRの6センサー運用版になります．
 
 ## JLCPCBでの電子基板発注方法
 * ガーバーファイル経由で発注する方法（おすすめ）
-  > /PCB/Gerber/のZipファイルを解凍せずにJLCPCBでアップロードしてください
+  > /PCB/GeneralGerber/のZipファイルを解凍せずにJLCPCBでアップロードしてください
 * EasyEDA 経由で発注する方法
   > あらかじめJLCPCBに登録，ログインしておいてから/PCB/EasyEDAのフォルダをEasyEDAで読み込んでFabricationからOne-click Order PCB/SMTを選択，＞No continue order＞Yesで発注してください．
 
