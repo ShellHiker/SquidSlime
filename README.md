@@ -47,6 +47,7 @@ SlimeVRの6センサー運用版になります．
   > * [ICM24688](https://booth.pm/ja/items/6053051)
 
 ## JLCPCBでの電子基板発注方法
+* いずれも基板の厚みを1.ommで発注してください．
 * ガーバーファイル経由で発注する方法（おすすめ）
   > /PCB/GeneralGerber/のZipファイルを解凍せずにJLCPCBでアップロードしてください
 * EasyEDA 経由で発注する方法
