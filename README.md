@@ -23,7 +23,7 @@
 ## 部品購入リスト
 * 国内サイト( AmazonAsia / 秋月電子通商 / 楽天 / booth )
   * Amazon
-  > * [TP4056充電モジュール](https://amzn.asia/d/jdhtNvE)
+  > * [TP4056充電モジュール(type-C)](https://amzn.asia/d/jdhtNvE)
   > * [JST PHコネクタ](https://www.amazon.co.jp/dp/B08JYNRTS1?ref=ppx_yo2ov_dt_b_fed_asin_title)
   > * [ケース用ねじm2l8-4本 m2l6-20本](https://amzn.asia/d/12LWxDU)
   > * [滑り止め付き身体固定ベルト](https://amzn.asia/d/c1qFxLP)
@@ -43,10 +43,11 @@
   > * [保護回路付き18650電池](https://item.rakuten.co.jp/3rwebshop/3r-ev18650/)
 
   * booth　（いずれかのセンサーを選択）
-  > * [LSM6DSV](https://booth.pm/ja/items/5606882)
-  > * [LSM6DSO](https://booth.pm/ja/items/6048000)
-  > * [LSM6DSR](https://booth.pm/ja/items/6098975)
-  > * [ICM24688](https://booth.pm/ja/items/6053051)
+  > * [LSM6DSV](https://shironekya.booth.pm/items/5606882)
+  > * [LSM6DSO](https://shironekya.booth.pm/items/6048000)
+  > * [LSM6DSR](https://shironekya.booth.pm/items/6098975)
+  > * [ICM24688](https://shironekya.booth.pm/items/6053051)
+  > * [BMI270](https://shironekya.booth.pm/items/5605683)
 
 ## JLCPCBでの電子基板発注方法
 * いずれも基板の厚みを1.0mmで発注してください．
