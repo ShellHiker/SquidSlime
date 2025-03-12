@@ -22,25 +22,26 @@ SlimeVRの6センサー運用版になります．
 ## 部品購入リスト
 * 国内サイト / Amazon Japan
   * Amazon
-  > [TP4056充電モジュール](https://amzn.asia/d/jdhtNvE)
-  > [JST PHコネクタ](https://www.amazon.co.jp/dp/B08JYNRTS1?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  > * [TP4056充電モジュール](https://amzn.asia/d/jdhtNvE)
+  > * [JST PHコネクタ](https://www.amazon.co.jp/dp/B08JYNRTS1?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  > * [ケース用ねじm2l8-4本 m2l6-20本](https://amzn.asia/d/12LWxDU)
 
   * 秋月電子
-  > [18650電池ボックス](https://akizukidenshi.com/catalog/g/g129374/)
-  > [seeed studio ESP32S3](https://akizukidenshi.com/catalog/g/g118078/)
-  > [金属皮膜抵抗 1/2W 100kΩ](https://akizukidenshi.com/catalog/g/g116656/)
-  > [金属皮膜抵抗 1/2W 30kΩ](https://akizukidenshi.com/catalog/g/g116650/)
-  > [整流ダイオード 1N5819](https://akizukidenshi.com/catalog/g/g117244/)
-  > [2回路3接点スイッチ](https://akizukidenshi.com/catalog/g/g115703/)
-  > [センサー延長用ケーブル(細いもの)](https://akizukidenshi.com/catalog/g/g111091/)
-  >  もしくは
-  > [センサー接続用ケーブル(太いもの)](https://akizukidenshi.com/catalog/g/g111611/)
+  > * [18650電池ボックス](https://akizukidenshi.com/catalog/g/g129374/)
+  > * [seeed studio ESP32S3](https://akizukidenshi.com/catalog/g/g118078/)
+  > * [金属皮膜抵抗 1/2W 100kΩ](https://akizukidenshi.com/catalog/g/g116656/)
+  > * [金属皮膜抵抗 1/2W 30kΩ](https://akizukidenshi.com/catalog/g/g116650/)
+  > * [整流ダイオード 1N5819](https://akizukidenshi.com/catalog/g/g117244/)
+  > * [2回路3接点スイッチ](https://akizukidenshi.com/catalog/g/g115703/)
+  > * [センサー延長用ケーブル(細いもの)](https://akizukidenshi.com/catalog/g/g111091/)
+  > * もしくは
+  > * [センサー接続用ケーブル(太いもの)](https://akizukidenshi.com/catalog/g/g111611/)
 
   * booth　（いずれかのセンサー）
-  > [LSM6DSV](https://booth.pm/ja/items/5606882)
-  > [LSM6DSO](https://booth.pm/ja/items/6048000)
-  > [LSM6DSR](https://booth.pm/ja/items/6098975)
-  > [ICM24688](https://booth.pm/ja/items/6053051)
+  > * [LSM6DSV](https://booth.pm/ja/items/5606882)
+  > * [LSM6DSO](https://booth.pm/ja/items/6048000)
+  > * [LSM6DSR](https://booth.pm/ja/items/6098975)
+  > * [ICM24688](https://booth.pm/ja/items/6053051)
 
 ## JLCPCBでの電子基板発注方法
 * ガーバーファイル経由で発注する方法（おすすめ）
@@ -49,7 +50,7 @@ SlimeVRの6センサー運用版になります．
   > あらかじめJLCPCBに登録，ログインしておいてから/PCB/EasyEDAのフォルダをEasyEDAで読み込んでFabricationからOne-click Order PCB/SMTを選択，＞No continue order＞Yesで発注してください．
 
 ## 工具・消耗品
-* [PHコネクタ圧着工具](https://amzn.asia/d/fIVv21o)
-* [ワイヤーストリッパー](https://akizukidenshi.com/catalog/g/g129524/)
-* [はんだごて](https://amzn.asia/d/cYUjaue)
-* [鉛フリーはんだ](https://akizukidenshi.com/catalog/g/g129524/)
+> * [PHコネクタ圧着工具](https://amzn.asia/d/fIVv21o)
+> * [ワイヤーストリッパー](https://akizukidenshi.com/catalog/g/g129524/)
+> * [はんだごて](https://amzn.asia/d/cYUjaue)
+> * [鉛フリーはんだ](https://akizukidenshi.com/catalog/g/g129524/)
