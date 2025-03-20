@@ -27,15 +27,15 @@
 
 // Set parameters of IMU and board used
 #define IMU IMU_LSM6DSO
-#define SECOND_IMU IMU
+#define SECOND_IMU IMU_LSM6DSO
 #define BOARD BOARD_CUSTOM
 #define IMU_ROTATION DEG_180
-#define SECOND_IMU_ROTATION DEG_180
+#define SECOND_IMU_ROTATION DEG_0
 
 #define PRIMARY_IMU_OPTIONAL false
 #define SECONDARY_IMU_OPTIONAL true
 
-#define MAX_IMU_COUNT 6
+#define MAX_IMU_COUNT 1
 
 // Axis mapping example
 /*
@@ -177,15 +177,15 @@ PIN_IMU_SDA, PRIMARY_IMU_OPTIONAL, BMI160_QMC_REMAP) \
 //  #define LED_PIN 2
 //  #define LED_INVERTED false
 #elif BOARD == BOARD_CUSTOM
-#define PIN_IMU_SDA 8
-#define PIN_IMU_SCL 9
-#define PIN_IMU_SDA_2 3
-#define PIN_IMU_SCL_2 2
-#define PIN_IMU_SDA_3 5
-#define PIN_IMU_SCL_3 4
+#define PIN_IMU_SDA 7 //D8
+#define PIN_IMU_SCL 8 //D9
+#define PIN_IMU_SDA_2 4 //D3
+#define PIN_IMU_SCL_2 3 //D2
+#define PIN_IMU_SDA_3 6 //D5
+#define PIN_IMU_SCL_3 5 //D4
 #define PIN_IMU_INT 255
 #define PIN_IMU_INT_2 254
-#define PIN_BATTERY_LEVEL 0
+#define PIN_BATTERY_LEVEL 1 //D0
 #define LED_PIN 21
 // Define pins by the examples above
 #elif BOARD == BOARD_WROOM32
