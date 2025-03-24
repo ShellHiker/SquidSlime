@@ -38,11 +38,11 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
   <tr>
     <td>TP4056充電モジュール</td>
     <td><a href="https://amzn.asia/d/jdhtNvE" target="_blank">Amazon</a></td>
-    <td></td>
+    <td>Type-C接続のもの</td>
   </tr>
   <tr>
     <td>滑り止め付き身体固定ベルト</td>
-    <td><a href="https://amzn.asia/d/c1qFxLP" target="_blank">amazon</a></td>
+    <td><a href="https://amzn.asia/d/c1qFxLP" target="_blank">Amazon</a></td>
     <td></td>
   </tr>
   <tr>
@@ -66,38 +66,84 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
     <td></td>
   </tr>
   <tr>
+    <td>整流ダイオード 1N5819</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g117244/" target="_blank"></a>秋月電子</td>
     <td></td>
-    <td></td>
+  </tr>
+  <tr>
+    <td>2回路3接点スイッチ</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g115703/" target="_blank">秋月電子</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
+    <td>本体接続用ケーブル細いもの<a href="https://akizukidenshi.com/catalog/g/g111091/" target="_blank">秋月電子</a><br>
+        もしくは<br>
+        本体接続用ケーブル太いもの<a href="https://akizukidenshi.com/catalog/g/g111611/" target="_blank">秋月電子</a>
+    </td>
     <td></td>
+  </tr>
+  <tr>
+    <td>18650充電池</td>
+    <td><a href="https://item.rakuten.co.jp/3rwebshop/3r-ev18650/" target="_blank">楽天</a></td>
+    <td>保護回路付きのもの</td>
+  </tr>
+  <tr>
+    <td>ケース用ねじm2l8-4本 m2l6-20本</td>
+    <td><a href="https://amzn.asia/d/12LWxDU" target="_blank">Amazon</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="" target="_blank"></a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="" target="_blank"></a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><a href="" target="_blank"></a></td>
     <td></td>
   </tr>
 </table>
-* 国内サイト( AmazonAsia / 秋月電子通商 / 楽天 / booth )
-  * Amazon
+
+## センサーリスト
+<table>
+  <tr>
+    <th>センサー種類</th>
+    <th>購入先</th>
+    <th>備考</th>
+  </tr>
+  <tr>
+    <td>LSM6DSV</td>
+    <td><a href="https://shironekya.booth.pm/items/5606882" target="_blank">booth(白猫屋さん)</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LSM6DSO</td>
+    <td><a href="https://shironekya.booth.pm/items/6048000" target="_blank">booth(白猫屋さん)</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>LSM6DSR</td>
+    <td><a href="https://shironekya.booth.pm/items/6098975" target="_blank">booth(白猫屋さん)</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ICM24688</td>
+    <td><a href="https://shironekya.booth.pm/items/6053051" target="_blank">booth(白猫屋さん)</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>BMI270</td>
+    <td><a href="https://shironekya.booth.pm/items/5605683" target="_blank">booth(白猫屋さん)</a></td>
+    <td></td>
+  </tr>
+</table>
   > [JST PHコネクタ](https://www.amazon.co.jp/dp/B08JYNRTS1?ref=ppx_yo2ov_dt_b_fed_asin_title)<br>
-  > [ケース用ねじm2l8-4本 m2l6-20本](https://amzn.asia/d/12LWxDU)<br>
-  > [滑り止め付き身体固定ベルト](https://amzn.asia/d/c1qFxLP)<br>
-
-  * 秋月電子
-  > [整流ダイオード 1N5819](https://akizukidenshi.com/catalog/g/g117244/)<br>
-  > [2回路3接点スイッチ](https://akizukidenshi.com/catalog/g/g115703/)<br>
-  > [センサー延長用ケーブル(細いもの)](https://akizukidenshi.com/catalog/g/g111091/)<br>
-  > もしくは
-  > [センサー接続用ケーブル(太いもの)](https://akizukidenshi.com/catalog/g/g111611/)<br>
-
-  * 楽天
-  > [保護回路付き18650電池](https://item.rakuten.co.jp/3rwebshop/3r-ev18650/)<br>
-
-  * booth　（いずれかのセンサーを選択）
-  > [LSM6DSV](https://shironekya.booth.pm/items/5606882)<br>
-  > [LSM6DSO](https://shironekya.booth.pm/items/6048000)<br>
-  > [LSM6DSR](https://shironekya.booth.pm/items/6098975)<br>
-  > [ICM24688](https://shironekya.booth.pm/items/6053051)<br>
-  > [BMI270](https://shironekya.booth.pm/items/5605683)<br>
 
 ## JLCPCBでの電子基板発注方法
 いずれも基板の厚みを1.0mmで発注してください．<br>
