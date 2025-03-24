@@ -37,32 +37,32 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
 
   <tr>
     <td>TP4056充電モジュール</td>
-    <td>[amazon](https://amzn.asia/d/jdhtNvE)</td>
+    <td><a href="https://amzn.asia/d/jdhtNvE" target="_blank">Amazon</a></td>
     <td></td>
   </tr>
   <tr>
     <td>滑り止め付き身体固定ベルト</td>
-    <td>https://amzn.asia/d/c1qFxLP</td>
+    <td><a href="https://amzn.asia/d/c1qFxLP" target="_blank">amazon</a></td>
     <td></td>
   </tr>
   <tr>
     <td>18650電池ボックス</td>
-    <td></td>
+    <td><a href="" target="_blank"></a></td>
     <td></td>
   </tr>
   <tr>
     <td>seeed studio ESP32S3</td>
-    <td></td>
+    <td><a href="" target="_blank"></a></td>
     <td></td>
   </tr>
   <tr>
     <td>金属皮膜抵抗 1/2W 100kΩ</td>
-    <td></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g116656/" target="_blank">秋月電子</a></td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>金属皮膜抵抗 1/2W 30kΩ</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g116650/" target="_blank"></a>秋月電子</td>
     <td></td>
   </tr>
   <tr>
@@ -83,8 +83,6 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
   > [滑り止め付き身体固定ベルト](https://amzn.asia/d/c1qFxLP)<br>
 
   * 秋月電子
-  > [金属皮膜抵抗 1/2W 100kΩ](https://akizukidenshi.com/catalog/g/g116656/)<br>
-  > [金属皮膜抵抗 1/2W 30kΩ](https://akizukidenshi.com/catalog/g/g116650/)<br>
   > [整流ダイオード 1N5819](https://akizukidenshi.com/catalog/g/g117244/)<br>
   > [2回路3接点スイッチ](https://akizukidenshi.com/catalog/g/g115703/)<br>
   > [センサー延長用ケーブル(細いもの)](https://akizukidenshi.com/catalog/g/g111091/)<br>
