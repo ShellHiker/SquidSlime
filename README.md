@@ -99,9 +99,30 @@ AliExpressで購入する際は海外サイトですので普段より一層注�
     <td>保護回路付きのもの</td>
   </tr>
   <tr>
-    <td>ケース用ねじm2l8-4本 m2l6-20本</td>
+    <td>ケース用ねじM2L16-4本　M2L8-20本</td>
     <td><a href="https://amzn.asia/d/12LWxDU" target="_blank">Amazon</a></td>
-    <td></td>
+    <td>L16の方をメイン基板ケースに，L8の方を拡張センサ基板ケースに使用してください</td>
+  </tr>
+  <tr>
+    <td>JST PH 4pin(ハウジング)</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g112797/" target="_blank">秋月電子</a>
+    <a href="https://amzn.asia/d/9pRjg2p" target="_blank">Amazon</a><br>
+    <a href="https://ja.aliexpress.com/item/1005003164558805.html" target="_blank">AliExpress</a></td>
+    <td>PAコネクタのほうが強度が強いが国内で手に入りにくいので割愛<br>PHコネクタ関連3点は無くても接続には問題ないので使うかどうかは任意</td>
+  </tr>
+  <tr>
+    <td>JST PH 4pin L字(コネクタ)</td>
+    <td><a href="https://item.rakuten.co.jp/mutsuura/10549889/" target="_blank">楽天</a><br>
+    <a href="https://amzn.asia/d/9xwTnSv" target="_blank">Amazon</a><br>
+    <a href="https://ja.aliexpress.com/item/33053313994.html" target="_blank">AliExpress(L字)</a></td>
+    <td>サイド型は秋月では手に入らないので注意</td>
+  </tr>
+  <tr>
+    <td>JST PH 4pin(圧着端子)</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g112809/" target="_blank">秋月電子</a><br>
+    <a href="https://amzn.asia/d/2E6wWLw" target="_blank">Amazon</a><br>
+    <a href="https://ja.aliexpress.com/item/1005007388697939.html" target="_blank"></a>AliExpress</td>
+    <td>落ちた時に見つけづらく，踏んだ時めちゃくちゃ痛いのでLEGOより凶悪</td>
   </tr>
 </table>
 
