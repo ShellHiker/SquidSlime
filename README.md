@@ -27,7 +27,7 @@ Autodesk fusionの非商用ライセンスを使って製作しているのでST
 platformio.iniを書き換えるとseeed studio esp32c6も使えると思いますがチップアンテナの強度がそれほど強くないのでアリエク等でアンテナを追加購入しない場合お勧めしません．<br>
 
 ## 部品購入リスト
-アリエクで購入する際は海外サイトですので一層注意してPayPalを使うなど行ってください．
+AliExpressで購入する際は海外サイトですので普段より一層注意してPayPalを使うなど行ってください．
 <table>
   <tr>
     <th>部品名</th>
@@ -38,7 +38,7 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
   <tr>
     <td>TP4056充電モジュール</td>
     <td><a href="https://amzn.asia/d/jdhtNvE" target="_blank">Amazon</a></td>
-    <td>Type-C接続のもの</td>
+    <td>Type-C接続のもの．<br>Aliexpressでは山の数ほどあるので自身で選んでください．</td>
   </tr>
   <tr>
     <td>滑り止め付き身体固定ベルト</td>
@@ -47,32 +47,43 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
   </tr>
   <tr>
     <td>18650電池ボックス</td>
-    <td><a href="" target="_blank"></a></td>
-    <td></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g129374/" target="_blank">秋月電子</a></td>
+    <td>表面実装のもの</td>
   </tr>
   <tr>
     <td>seeed studio ESP32S3</td>
-    <td><a href="" target="_blank"></a></td>
-    <td></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g118078/" target="_blank">秋月電子</a></td><br>
+    <td><a href="https://ssci.to/8968" target="_blank">スイッチサイエンス</a></td><br>
+    <td><a href="https://ja.aliexpress.com/item/1005004788285643.html" target="_blank">AliExpres</a></td>
+    <td>AliExpressで購入する場合は技適マークを確認</td>
   </tr>
   <tr>
     <td>金属皮膜抵抗 1/2W 100kΩ</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g116656/" target="_blank">秋月電子</a></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g116656/" target="_blank">秋月電子(199個入り)</a></td><br>
+    <td><a href="https://amzn.asia/d/145EU7i" target="_blank">Amazon(100個入り)</a></td><br>
+    <td><a href="https://amzn.asia/d/buKsb9Y" target="_blank">Amazon(1個から)</a></td><br>
+    <td><a href="https://ja.aliexpress.com/item/1005005466858774.html" target="_blank">AliExpress</a></td>
     <td></td>
   </tr>
   <tr>
     <td>金属皮膜抵抗 1/2W 30kΩ</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g116650/" target="_blank"></a>秋月電子</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g116650/" target="_blank">秋月電子(100個入り)</a></td><br>
+    <td><a href="https://amzn.asia/d/28bEFrl" target="_blank">Amazon(1個から)</a></td><br>
+    <td><a href="https://ja.aliexpress.com/item/1005005466858774.html" target="_blank">AliExpress</a></td>
     <td></td>
   </tr>
   <tr>
     <td>整流ダイオード 1N5819</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g117244/" target="_blank"></a>秋月電子</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g117244/" target="_blank">秋月電子</a></td><br>
+    <td><a href="https://amzn.asia/d/dgEWyhH" target="_blank">Amazon(100個入り)</a></td><br>
+    <td><a href="https://amzn.asia/d/deLb5V1" target="_blank">Amazon(1個から)</a></td><br>
+    <td><a href="" target="_blank"></a></td>
     <td></td>
   </tr>
   <tr>
-    <td>2回路3接点スイッチ</td>
+    <td>2回路3接点スイッチ(SK-12D11)</td>
     <td><a href="https://akizukidenshi.com/catalog/g/g115703/" target="_blank">秋月電子</a></td>
+    <td><a href="https://ja.aliexpress.com/item/1005007876765927.html" target="_blank"></a>AliExpress</td>
     <td></td>
   </tr>
   <tr>
@@ -91,21 +102,6 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
   <tr>
     <td>ケース用ねじm2l8-4本 m2l6-20本</td>
     <td><a href="https://amzn.asia/d/12LWxDU" target="_blank">Amazon</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="" target="_blank"></a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="" target="_blank"></a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><a href="" target="_blank"></a></td>
     <td></td>
   </tr>
 </table>
@@ -143,7 +139,6 @@ platformio.iniを書き換えるとseeed studio esp32c6も使えると思いま�
     <td></td>
   </tr>
 </table>
-  > [JST PHコネクタ](https://www.amazon.co.jp/dp/B08JYNRTS1?ref=ppx_yo2ov_dt_b_fed_asin_title)<br>
 
 ## JLCPCBでの電子基板発注方法
 いずれも基板の厚みを1.0mmで発注してください．<br>
