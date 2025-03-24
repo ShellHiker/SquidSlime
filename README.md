@@ -52,46 +52,45 @@ AliExpressで購入する際は海外サイトですので普段より一層注�
   </tr>
   <tr>
     <td>seeed studio ESP32S3</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g118078/" target="_blank">秋月電子</a></td><br>
-    <td><a href="https://ssci.to/8968" target="_blank">スイッチサイエンス</a></td><br>
-    <td><a href="https://ja.aliexpress.com/item/1005004788285643.html" target="_blank">AliExpres</a></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g118078/" target="_blank">秋月電子</a><br>
+    <a href="https://ssci.to/8968" target="_blank">スイッチサイエンス</a><br>
+    <a href="https://ja.aliexpress.com/item/1005004788285643.html" target="_blank">AliExpres</a></td>
     <td>AliExpressで購入する場合は技適マークを確認</td>
   </tr>
   <tr>
     <td>金属皮膜抵抗 1/2W 100kΩ</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g116656/" target="_blank">秋月電子(199個入り)</a></td><br>
-    <td><a href="https://amzn.asia/d/145EU7i" target="_blank">Amazon(100個入り)</a></td><br>
-    <td><a href="https://amzn.asia/d/buKsb9Y" target="_blank">Amazon(1個から)</a></td><br>
-    <td><a href="https://ja.aliexpress.com/item/1005005466858774.html" target="_blank">AliExpress</a></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g116656/" target="_blank">秋月電子(199個入り)</a><br>
+    <a href="https://amzn.asia/d/145EU7i" target="_blank">Amazon(100個入り)</a><br>
+    <a href="https://amzn.asia/d/buKsb9Y" target="_blank">Amazon(1個から)</a><br>
+    <a href="https://ja.aliexpress.com/item/1005005466858774.html" target="_blank">AliExpress</a></td>
     <td></td>
   </tr>
   <tr>
     <td>金属皮膜抵抗 1/2W 30kΩ</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g116650/" target="_blank">秋月電子(100個入り)</a></td><br>
-    <td><a href="https://amzn.asia/d/28bEFrl" target="_blank">Amazon(1個から)</a></td><br>
-    <td><a href="https://ja.aliexpress.com/item/1005005466858774.html" target="_blank">AliExpress</a></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g116650/" target="_blank">秋月電子(100個入り)</a><br>
+    <a href="https://amzn.asia/d/28bEFrl" target="_blank">Amazon(1個から)</a><br>
+    <a href="https://ja.aliexpress.com/item/1005005466858774.html" target="_blank">AliExpress</a></td>
     <td></td>
   </tr>
   <tr>
     <td>整流ダイオード 1N5819</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g117244/" target="_blank">秋月電子</a></td><br>
-    <td><a href="https://amzn.asia/d/dgEWyhH" target="_blank">Amazon(100個入り)</a></td><br>
-    <td><a href="https://amzn.asia/d/deLb5V1" target="_blank">Amazon(1個から)</a></td><br>
-    <td><a href="" target="_blank"></a></td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g117244/" target="_blank">秋月電子</a><br>
+    <a href="https://amzn.asia/d/dgEWyhH" target="_blank">Amazon(100個入り)</a><br>
+    <a href="https://amzn.asia/d/deLb5V1" target="_blank">Amazon(1個から)</a><br>
+    <a href="https://ja.aliexpress.com/item/1005001552094086.html" target="_blank">AliExpress(50個入り)</a></td>
     <td></td>
   </tr>
   <tr>
     <td>2回路3接点スイッチ(SK-12D11)</td>
-    <td><a href="https://akizukidenshi.com/catalog/g/g115703/" target="_blank">秋月電子</a></td>
-    <td><a href="https://ja.aliexpress.com/item/1005007876765927.html" target="_blank"></a>AliExpress</td>
+    <td><a href="https://akizukidenshi.com/catalog/g/g115703/" target="_blank">秋月電子</a>
+    <a href="https://ja.aliexpress.com/item/1005007876765927.html" target="_blank">AliExpress</a></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>本体接続用ケーブル細いもの<a href="https://akizukidenshi.com/catalog/g/g111091/" target="_blank">秋月電子</a><br>
+    <td>本体接続用ケーブル細いもの:<a href="https://akizukidenshi.com/catalog/g/g111091/" target="_blank">秋月電子</a><br>
         もしくは<br>
-        本体接続用ケーブル太いもの<a href="https://akizukidenshi.com/catalog/g/g111611/" target="_blank">秋月電子</a>
-    </td>
+        本体接続用ケーブル太いもの:<a href="https://akizukidenshi.com/catalog/g/g111611/" target="_blank">秋月電子</a></td>
     <td></td>
   </tr>
   <tr>
