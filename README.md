@@ -121,7 +121,7 @@ AliExpressで購入する際は海外サイトですので普段より一層注�
     <td>JST PH 4pin(圧着端子)</td>
     <td><a href="https://akizukidenshi.com/catalog/g/g112809/" target="_blank">秋月電子</a><br>
     <a href="https://amzn.asia/d/2E6wWLw" target="_blank">Amazon</a><br>
-    <a href="https://ja.aliexpress.com/item/1005007388697939.html" target="_blank"></a>AliExpress</td>
+    <a href="https://ja.aliexpress.com/item/1005007388697939.html" target="_blank">AliExpres</a></td>
     <td>落ちた時に見つけづらく，踏んだ時めちゃくちゃ痛いのでLEGOより凶悪</td>
   </tr>
 </table>
@@ -162,9 +162,9 @@ AliExpressで購入する際は海外サイトですので普段より一層注�
 
 ## JLCPCBでの電子基板発注方法
 いずれも基板の厚みを1.0mmで発注してください．<br>
-ガーバーファイルを使って発注する方法（おすすめ）<br>
-  > /PCB/GeneralGerber/のZipファイルを解凍せずにJLCPCBでアップロードしてください
-EasyEDA 経由で発注する方法<br>
+* ガーバーファイルを使って発注する方法（おすすめ）<br>
+  > /PCB/GeneralGerber/のZipファイルを解凍せずにJLCPCBでアップロードしてください<br>
+* EasyEDA 経由で発注する方法<br>
   > あらかじめJLCPCBに登録，ログインしておいてから/PCB/EasyEDAのフォルダをEasyEDAで読み込んでFabricationからOne-click Order PCB/SMTを選択，＞No continue order＞Yesで発注してください．
 
 ## ケースについて
@@ -174,7 +174,7 @@ JLC3DPに発注する際の印刷方式はSLSを推奨します．<br>
 また，きれいな作り方ではないですがfusionのファイルも同梱しているので加工等はお好きにどうぞ．<br>
 
 ## 工具・消耗品
-> [PHコネクタ圧着工具](https://amzn.asia/d/fIVv21o)<br>
-> [ワイヤーストリッパー](https://akizukidenshi.com/catalog/g/g129524/)<br>
-> [はんだごて](https://amzn.asia/d/cYUjaue)<br>
-> [鉛フリーはんだ](https://akizukidenshi.com/catalog/g/g129524/)<br>
+[PHコネクタ圧着工具](https://amzn.asia/d/fIVv21o)<br>
+[ワイヤーストリッパー](https://akizukidenshi.com/catalog/g/g129524/)<br>
+[はんだごて](https://amzn.asia/d/cYUjaue)<br>
+[鉛フリーはんだ](https://akizukidenshi.com/catalog/g/g129524/)<br>
